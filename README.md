@@ -13,3 +13,38 @@
      </div>
 ```
 
+*Для загрузки данных просто через шоблонизатор в цикле выводите данные в "content-tb"
+ ВАЖНО! Количество перечисляемых столбиков данных должно совподать с колличеством столбиков в шапке таблици
+*
+```html
+    <div class="scroll-tb">
+        <div class="content-tb">
+            <span>1</span>
+            <span>dfdfdfdfdfdfdffd</span>
+            <span>dff</span>
+            <span>dfdfdfdfdfdfdffd</span>
+        </div>
+    </div>
+```
+
+*Полный код таблицы*
+```html 
+   <body>
+        <div class="tb">
+            <div class="header-tb">
+                <span>ID</span>
+                <span>Name</span>
+                <span>Type</span>
+                <span>Delate</span>
+            </div>
+            <div class="scroll-tb">
+                <div class="content-tb">
+                    <span>1</span>
+                    <span>dfdfdfdfdfdfdffd</span>
+                    <span>dff</span>
+                    <span>dfdfdfdfdfdfdffd</span>
+                </div>
+            </div>
+        </div>
+    </body>
+```
