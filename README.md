@@ -3,6 +3,9 @@
 **Таблицы**
 ![eR0bcrtGmlg](https://user-images.githubusercontent.com/50780255/132317499-7eb4ef2e-6732-4c1b-bba3-6bb195e69b70.jpg)
 
+# GetStarted
+*CDN - https://raw.githack.com/thepetruha/TWL/main/style.css*
+
 *Простой пример того как просто вы можете установить нужные вам столбики*
 ```html
     <div class="header-tb">
