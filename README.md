@@ -55,3 +55,6 @@ ____
     </body>
 ```
 __ВАЖНО! Родительский блок должен быть типа FLEXBOX для корректного отображения всех стилей, а так же обязательным параметром является высота родительского болка, ее можно указывать в ('%', 'hv', 'px' и др)__
+![HnYwcDdj5qg](https://user-images.githubusercontent.com/50780255/132329968-3761a12b-3de2-4b7f-8891-cfbf7f3fb17e.jpg)
+![_wwe4cV2ao0](https://user-images.githubusercontent.com/50780255/132329980-70915cfd-6405-4ace-b20c-fdc5b9b7ffb5.jpg)
+
