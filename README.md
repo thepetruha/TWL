@@ -8,6 +8,7 @@
 ```html
         <link rel="stylesheet" href="https://raw.githack.com/thepetruha/TWL/main/style.css">
 ```
+____
 
 *Простой пример того как просто вы можете установить нужные вам столбики*
 ```html
