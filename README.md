@@ -58,5 +58,6 @@ _ВАЖНО! Родительский блок должен быть типа FL
 ____
 _Пример родительского блока:_
 ![2QPnis88tVk](https://user-images.githubusercontent.com/50780255/132330180-606abf4d-9b7a-42a7-864f-8f97c0fe2bd2.jpg)
-![_wwe4cV2ao0](https://user-images.githubusercontent.com/50780255/132329980-70915cfd-6405-4ace-b20c-fdc5b9b7ffb5.jpg)
+![WnTSYays7_M](https://user-images.githubusercontent.com/50780255/132330644-c9f27870-4248-440e-a446-859177e09916.jpg)
+
 
