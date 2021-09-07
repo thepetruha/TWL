@@ -9,7 +9,7 @@
 body{
     background-color: rgb(129, 129, 129);
     display: flex;
-    height: 30vh;
+    height: 20vh;
     width: 100%;
 }
 
@@ -40,6 +40,7 @@ body{
     padding: 10px 15px 10px 15px;
     border-bottom: rgb(214, 214, 214) solid 1px;
     color:rgba(129, 129, 129, 0.726);
+    padding-top: 30px;
 }
 
 .content-tb{
@@ -48,4 +49,22 @@ body{
     font-weight: 200;
     padding: 10px 15px 10px 15px;
     border-bottom: rgb(214, 214, 214) solid 1px;
+    height: 30px;
+    align-items: center;
 }
+
+.scroll-tb::-webkit-scrollbar {
+    width: 5px;
+}
+ 
+.scroll-tb::-webkit-scrollbar-track {
+    background-color: rgb(214, 214, 214);
+}
+ 
+.scroll-tb::-webkit-scrollbar-thumb {
+  background-color: rgb(255, 153, 0);
+  border-radius: 20px;
+}
+
+
+
