@@ -4,7 +4,7 @@
 ![eR0bcrtGmlg](https://user-images.githubusercontent.com/50780255/132317499-7eb4ef2e-6732-4c1b-bba3-6bb195e69b70.jpg)
 
 # GetStarted
-*CDN -* 
+*CDN - вставте данный тег со свойствами в тела документа HTML* 
 ```html
         <link rel="stylesheet" href="https://raw.githack.com/thepetruha/TWL/main/style.css">
 ```
