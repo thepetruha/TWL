@@ -6,13 +6,6 @@
     font-family: 'Poppins', sans-serif;
 }
 
-body{
-    background-color: rgb(129, 129, 129);
-    display: flex;
-    height: 20vh;
-    width: 100%;
-}
-
 .tb{
     width: 100%;
     display: flex;
