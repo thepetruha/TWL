@@ -60,4 +60,24 @@
 }
 
 
+.bk-gridient{
+    background: linear-gradient(314.19deg, rgba(0, 255, 209, 0.31) 20.51%, rgba(20, 0, 255, 0.38) 92.48%);
+    animation-name: menuLeft;
+    animation-duration: 25s;
+    animation-timing-function: ease-in-out;
+    animation-iteration-count: infinite;
+    animation-play-state: running;
+}
+
+@keyframes menuLeft{
+    0%{background-color: rgba(0, 255, 209, 0.31);}
+    15%{background-color: rgba(20, 0, 255, 0.38);}
+    30%{background-color: rgba(66, 255, 0, 0.31);}
+    45%{background-color: rgba(0, 163, 255, 0.38);}
+    75%{background-color: rgba(255, 153, 0, 0.31);}
+    90%{background-color: rgba(66, 255, 0, 0.38);}
+    100%{background-color: rgba(0, 255, 209, 0.31);}
+}
+
+
 
